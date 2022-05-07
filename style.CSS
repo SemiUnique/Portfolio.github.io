@@ -1,0 +1,39 @@
+a:link {
+
+}
+a:visited {
+
+}
+a:hover { 
+    
+}  
+a:active {
+    
+} 
+a:focus {
+    
+} 
+
+
+#header {
+	font-size: 15px;
+	background-color: white;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 5px ridge purple;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.subheader {
+	margin: 5px 5px 5px 5px;
+	border: 5px ridge purple;
+}
+
+body {
+	background-color:grey; 
+	margin: 0px 0px 0px 0px;
+	border: 10px ridge purple;
+	padding-bottom: 500px;
+	
+}
